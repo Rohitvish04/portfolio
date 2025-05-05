@@ -4,13 +4,13 @@ Here's a professional and clean `README.md` for your React + Vite portfolio proj
 ```markdown
 # 🚀 My Developer Portfolio
 
-Welcome to my personal developer portfolio, built using **React.js**, **Vite**, and **Material UI**. This project showcases my skills, projects, and contact details in a responsive and elegant layout.
+Welcome to my personal developer portfolio, built using React.js, Vite, and Material UI. This project showcases my skills, projects, and contact details in a responsive and elegant layout.
 
 ---
 
 ## 🌟 Features
 
-- Modern and responsive UI using **Material UI**
+- Modern and responsive UI using Material UI
 - Scroll-based navigation with smooth animation (`AOS`)
 - Projects with live preview and GitHub links
 - Skills with technology icons
@@ -23,11 +23,11 @@ Welcome to my personal developer portfolio, built using **React.js**, **Vite**, 
 
 ## 🧰 Tech Stack
 
-- **Frontend:** React.js, Vite
-- **Styling:** Material UI, CSS
-- **Animations:** AOS (Animate On Scroll)
-- **Icons:** React Icons
-- **Deployment:** Vercel
+- Frontend: React.js, Vite
+- Styling: Material UI, CSS
+- Animations: AOS (Animate On Scroll)
+- Icons: React Icons
+- Deployment: Vercel
 
 ---
 
