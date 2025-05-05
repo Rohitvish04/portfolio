@@ -51,7 +51,7 @@ const Contact = () => {
             <Typography variant="h6" gutterBottom>
               Contact Info
             </Typography>
-            <Typography>Email: rohitvvihwakarma400@gmail.com</Typography>
+            <Typography>Email: rohitvvishwakarma400@gmail.com</Typography>
             <Typography>Location: Kandivali, Mumbai</Typography>
 
             <Box sx={{ mt: 3 }}>
@@ -109,7 +109,7 @@ const Contact = () => {
                 </IconButton>
                 <IconButton
                   component="a"
-                  href="mailto:rohitvvihwakarma400@gmail.com"
+                  href="mailto:rohitvvishwakarma400@gmail.com"
                   target="_blank"
                   rel="noopener noreferrer"
                   sx={{
