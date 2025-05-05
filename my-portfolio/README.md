@@ -52,7 +52,7 @@ npm run build
 
 ## 🔗 Live Demo
 
-Visit the live website: [your-deployed-link.vercel.app](https://my-portfolio-bay-nu-98.vercel.app/)
+Visit the live website: [https://my-portfolio-bay-nu-98.vercel.app/](https://my-portfolio-bay-nu-98.vercel.app/)
 
 ## 📄 License
 
