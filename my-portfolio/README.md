@@ -31,31 +31,6 @@ Welcome to my personal developer portfolio, built using **React.js**, **Vite**, 
 
 ---
 
-## 📁 Folder Structure
-
-```
-
-my-portfolio/
-├── public/
-├── src/
-│   ├── components/
-│   │   ├── About.jsx
-│   │   ├── Contact.jsx
-│   │   ├── Footer.jsx
-│   │   ├── Hero.jsx
-│   │   ├── Navbar.jsx
-│   │   ├── Projects.jsx
-│   │   └── Skills.jsx
-│   ├── App.jsx
-│   └── main.jsx
-├── .gitignore
-├── index.html
-├── package.json
-├── vite.config.js
-└── README.md
-
-````
-
 ---
 
 ## 🧪 Run Locally
@@ -68,13 +43,11 @@ npm run dev
 ````
 
 ---
-
 ## ⚙️ Build for Production
 
 ```bash
 npm run build
 ```
-
 ---
 
 ## 🔗 Live Demo
