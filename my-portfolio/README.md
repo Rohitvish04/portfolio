@@ -36,7 +36,7 @@ Welcome to my personal developer portfolio, built using **React.js**, **Vite**, 
 ## 🧪 Run Locally
 
 ```bash
-git clone https://github.com/yourusername/portfolio.git
+git clone https://github.com/Rohitvish04/portfolio.git
 cd portfolio
 npm install
 npm run dev
@@ -52,7 +52,7 @@ npm run build
 
 ## 🔗 Live Demo
 
-Visit the live website: [your-deployed-link.vercel.app](https://your-deployed-link.vercel.app)
+Visit the live website: [your-deployed-link.vercel.app](https://my-portfolio-bay-nu-98.vercel.app/)
 
 ## 📄 License
 
