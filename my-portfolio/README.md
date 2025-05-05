@@ -81,18 +81,6 @@ npm run build
 
 Visit the live website: [your-deployed-link.vercel.app](https://your-deployed-link.vercel.app)
 
----
-
-## 🙋‍♂️ Contact
-
-Feel free to connect with me:
-
-* 📧 Email: [rohitvvihwakarma400@gmail.com](mailto:rohitvvihwakarma400@gmail.com)
-* 🔗 LinkedIn: [linkedin.com/in/rohitvvishwakarma](https://linkedin.com/in/rohitvvishwakarma)
-* 💻 GitHub: [github.com/Rohitvish04](https://github.com/Rohitvish04)
-
----
-
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
