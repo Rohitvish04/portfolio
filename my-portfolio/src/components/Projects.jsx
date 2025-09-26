@@ -28,7 +28,7 @@ const projects = [
     tech: ['React', 'Material UI', 'Vite'],
     image: 'https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     github: 'https://github.com/yourusername/portfolio',
-    live: 'https://blogs-api-ncn3.onrender.com',
+    live: 'https://blog-app-green-eight-75.vercel.app',
   },
   {
     title: 'News App',
